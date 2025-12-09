@@ -1267,6 +1267,19 @@ export default [
     shape: "boolean",
     category: "obsolete",
   },
+  {
+    id: "coreex.blockwitimageturnrightInline",
+    spec: "block with image @turnRight inline",
+    shape: "stack",
+    category: "coreex",
+  },
+  {
+    selector: "exampleBlock",
+    spec: "example block",
+    inputs: [],
+    shape: "reporter",
+    category: "coreex",
+  },
   // TODO define
   {
     id: "facesensing.goToPart",
