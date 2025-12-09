@@ -120,6 +120,7 @@ export class IconView {
       makeymakeyBlock: { width: 40, height: 40 },
       gdxforBlock: { width: 40, height: 40 },
       boostBlock: { width: 40, height: 40 },
+      coreexBlock: { width: 40, height: 40 },
     }
   }
 }
